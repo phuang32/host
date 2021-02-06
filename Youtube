@@ -44,6 +44,9 @@ ff02::3 ip6-allhosts
 0.0.0.0 youtubei.googleapis.com
 0.0.0.0 i.ytimg.com
 
+# Customized online game
+0.0.0.0 iogames.space
+
 #
 # The contents of this file (containing a listing of additional domains in
 # 'hosts' file format) are appended to the unified hosts file during the
